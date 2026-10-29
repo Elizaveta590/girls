@@ -636,7 +636,7 @@ html.visual body {
 
   letter-spacing: -0.06em;
 
-  color: var(--white);
+  color: white;
 
   text-transform: uppercase;
 
@@ -816,6 +816,8 @@ html.visual body {
   font-family: var(--mono);
 
   text-transform: uppercase;
+	
+  color: white;
 
 }
 
@@ -831,6 +833,9 @@ html.visual body {
   font-style: italic;
 
   line-height: 0.85;
+
+  color: white;
+	
 
 }
 
